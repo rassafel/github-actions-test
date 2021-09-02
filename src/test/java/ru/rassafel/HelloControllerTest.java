@@ -25,6 +25,6 @@ class HelloControllerTest {
             .expectStatus()
             .isOk()
             .expectBody(String.class)
-            .isEqualTo("Hello World!!!");
+            .isEqualTo("Hello World!");
     }
 }

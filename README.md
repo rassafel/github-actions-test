@@ -1,3 +1,3 @@
 # Github Actions Test
-[![Maven Build Action](https://github.com/rassafel/github-actions-test/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/rassafel/github-actions-test/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/rassafel/github-actions-test/branch/master/graph/badge.svg?token=TEHSOPTEU3)](https://codecov.io/gh/rassafel/github-actions-test)
+[![Maven Build Action](https://img.shields.io/github/workflow/status/rassafel/github-actions-test/Maven%20Build%20Action/master?style=for-the-badge)](https://github.com/rassafel/github-actions-test/actions/workflows/build.yml)
+[![codecov](https://img.shields.io/codecov/c/github/rassafel/github-actions-test?style=for-the-badge&token=TEHSOPTEU3)]()

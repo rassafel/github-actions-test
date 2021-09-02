@@ -63,6 +63,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
+            
             <!-- region tests report -->
             <plugin>
                 <groupId>org.jacoco</groupId>
